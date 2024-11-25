@@ -1,0 +1,46 @@
+{
+   "trainings": [
+      {
+         "correct": 28,
+         "total": 64
+      },
+      {
+         "correct": 54,
+         "total": 64
+      },
+      {
+         "correct": 64,
+         "total": 64
+      },
+      {
+         "correct": 64,
+         "total": 64
+      },
+      {
+         "correct": 64,
+         "total": 64
+      }
+   ],
+   "validations": [
+      {
+         "correct": 17,
+         "total": 48
+      },
+      {
+         "correct": 26,
+         "total": 48
+      },
+      {
+         "correct": 25,
+         "total": 48
+      },
+      {
+         "correct": 26,
+         "total": 48
+      },
+      {
+         "correct": 25,
+         "total": 48
+      }
+   ]
+}
